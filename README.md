@@ -9,7 +9,7 @@ I'm **Sphesihle Mdlalose**, a passionate second-year Computer Science student at
 - 👯 I'm looking to collaborate on **open-source projects and student coding initiatives**
 - 🤔 I'm looking for help with **industry best practices and mentorship opportunities**
 - 💬 Ask me about **my journey in computer science, programming challenges, or study tips**
-- 📫 How to reach me: **[Your email or preferred contact method]**
+- 📫 How to reach me: **[sphesihlemdlaose@gmail.com]**
 - ⚡ Fun fact: **I love turning complex problems into elegant code solutions!**
 
 ### 🛠️ Technologies & Tools
