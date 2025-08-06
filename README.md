@@ -52,26 +52,6 @@ I'm **Sphesihle Mdlalose**, a passionate second-year Computer Science student at
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madlula03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madlula03&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-### 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madlula03&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
-### 🌟 Featured Repositories
-<!-- Add your best repositories here when you have them -->
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=madlula03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
-
 <div align="center">
   <b>Feel free to explore my repositories and connect with me! Always open to learning and collaboration. 🌟</b>
 </div>
