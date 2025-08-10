@@ -4,7 +4,7 @@ I'm **Sphesihle Mdlalose**, a passionate second-year Computer Science student at
 
 ### 🚀 About Me
 - 🔭 I'm currently working on **building my coding skills and exploring various programming languages**
-- 🌱 I'm currently learning **advanced algorithms, data structures, and web development**
+- 🌱 I'm currently learning **advanced algorithms, user-defined methods and pre-defined methods in java, and web development**
 - 💻 I'm passionate about **software development** and creating innovative solutions
 - 👯 I'm looking to collaborate on **open-source projects and student coding initiatives**
 - 🤔 I'm looking for help with **industry best practices and mentorship opportunities**
@@ -17,8 +17,6 @@ I'm **Sphesihle Mdlalose**, a passionate second-year Computer Science student at
 #### Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
