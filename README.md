@@ -4,7 +4,7 @@ I'm **Sphesihle Mdlalose**, a passionate second-year Computer Science student at
 
 ### 🚀 About Me
 - 🔭 I'm currently working on **building my coding skills and exploring various programming languages**
-- 🌱 I'm currently learning **Object Orientated Programming ing JAVA and JavaScript,GUI(Java Swing), and web development**
+- 🌱 I'm currently learning **Object Orientated Programming in JAVA and JavaScript,GUI(Java Swing), and web development**
 - 💻 I'm passionate about **software development** and creating innovative solutions
 - 👯 I'm looking to collaborate on **open-source projects and student coding initiatives**
 - 🤔 I'm looking for help with **industry best practices and mentorship opportunities**
