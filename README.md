@@ -38,6 +38,7 @@ I'm **Sphesihle Mdlalose**, a passionate second-year Computer Science student at
 ### 📂 Featured Projects
 - **[Game Discovery Hub](https://github.com/madlula03/game-discovery-hub)** — A React app for browsing and searching games using the RAWG Video Games API. Built with Vite, React Hooks, and Tailwind CSS.
 - **[Picasso Games Leaderboard](https://madlula03.github.io/picasso-games-leaderboard)** — A vanilla JavaScript leaderboard app, deployed live on GitHub Pages.
+- **[Simple To-Do Application](https://github.com/madlula03/A-Simple-To-Do-Application)** — A task manager built with HTML5, CSS, and JavaScript, with task completion and delete functionality.
 
 ### 🎯 Goals
 - Build a strong foundation in software engineering
