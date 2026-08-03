@@ -2,7 +2,7 @@
 <h3 align="center">Second-year Computer Science student @ Tshwane University of Technology</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+Game+Discovery+Hub+with+React+%2B+RAWG+API;Learning+TypeScript+%F0%9F%9A%80;Java+OOP+%2B+Oracle+SQL+enthusiast;Always+open+to+collaboration+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+Game+Discovery+Hub+with+React+%2B+RAWG+API;Java+GUI+(AOP)+%2B+Information+Security;Exploring+Linux+%26+Operating+Systems;Software+Engineering+Fundamentals+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,8 @@
 ### 🚀 About Me
 
 - 🔭 Currently building **Game Discovery Hub** — a React app powered by the RAWG Video Games API
-- 🌱 Currently learning **TypeScript**, React (hooks, component architecture, Tailwind CSS), Advanced OOP in Java, and database design with Oracle SQL
+- 🌱 Currently learning **Java GUI development (AOP)**, **Information Security**, **Operating Systems (Linux)**, and **Software Engineering Fundamentals**
+- 🧰 Also sharpening **TypeScript**, React (hooks, component architecture, Tailwind CSS), and database design with Oracle SQL
 - 💻 Passionate about **software development** and turning complex problems into elegant code
 - 👯 Looking to collaborate on **open-source projects and student coding initiatives**
 - 🤔 Looking for help with **industry best practices and mentorship opportunities**
@@ -53,6 +54,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
 ---
